@@ -1,5 +1,7 @@
 # Sample_Python
-http://python-guide-ru.readthedocs.io/en/latest/writing/structure.html
+[Structure of Python project](http://python-guide-ru.readthedocs.io/en/latest/writing/structure.html)
+
+[Set up Git](https://help.github.com/articles/set-up-git/)
 
 
 ## How to use Github
